@@ -1,0 +1,15 @@
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/obj/Debug/net6.0/Exercise4.csproj.AssemblyReference.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/obj/Debug/net6.0/Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/obj/Debug/net6.0/Exercise4.AssemblyInfoInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/obj/Debug/net6.0/Exercise4.AssemblyInfo.cs
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/obj/Debug/net6.0/Exercise4.csproj.CoreCompileInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/bin/Debug/net6.0/Exercise4
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/bin/Debug/net6.0/Exercise4.deps.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/bin/Debug/net6.0/Exercise4.runtimeconfig.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/bin/Debug/net6.0/Exercise4.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/bin/Debug/net6.0/Exercise4.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/obj/Debug/net6.0/Exercise4.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/obj/Debug/net6.0/refint/Exercise4.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/obj/Debug/net6.0/Exercise4.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/obj/Debug/net6.0/Exercise4.genruntimeconfig.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz8/Exercise4/obj/Debug/net6.0/ref/Exercise4.dll
